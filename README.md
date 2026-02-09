@@ -31,7 +31,7 @@ Open and run:
 
 ---
 
-## ✅ Basic Usage
+##  Basic Usage
 
 ```python
 from linear_model import LinearModel
@@ -104,7 +104,7 @@ $$
 
 ---
 
-## 📬 Credits
+##  Author
 
 Created by **Rehnoor Aulakh**.
 
